@@ -1,0 +1,74 @@
+body{
+	background: #e6ffff;
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+/*#mainnavbar .navbar-brand{
+	color: #ffffff;
+	font-size: 30px;
+}
+#mainnavbar .nav-link{
+	color: #ffffff;
+	font-family: 'Cinzel', serif;
+	font-size: 20px;
+}
+
+#mainnavbar .nav-link:hover{
+	color: #00e6e6;
+	font-weight: 600;
+}*/
+
+/*.slice{
+	height: 761px;
+}*/
+
+a{
+ color: inherit; 
+}
+
+.proj{
+	color: #000000;
+}
+.proj:hover{
+	color: #00e6e6;
+	font-weight: 600;
+}
+
+#content{
+	font-size: 1.5rem;
+}
+#love{
+	color: #ff1a75;
+	font-weight: 700;
+}
+h2{
+	color: white;
+	font-weight: 700;
+	background-color: #009999;
+	border: 2px solid black;
+}
+h1{
+	color: #000000;
+	font-weight: 700;
+	font-size: 5rem;
+	margin-bottom: 4rem;
+	letter-spacing: 1rem;
+}
+#projects{
+	text-align: left;
+}
+img{
+	justify-content: center;
+}
+#links{
+	color: #00e6e6;
+}
+h4{
+	color: #ffbf00;
+	font-size: 1.25em;
+}
+
+/*@media (max-width: 1200px){
+	.container-fluid{
+		font-size: 1.1rem;
+	}
+}*/
