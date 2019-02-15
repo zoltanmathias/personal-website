@@ -1,3 +1,5 @@
 # personal-website
 
-Check it out at http://www.zoltanmathias.com! 
+Check it out at https://zoltanmathias.github.io/personal-website/
+
+Just some basic information about me
